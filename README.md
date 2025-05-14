@@ -4,6 +4,9 @@ I mix code + logic + dreams to create stuff that actually matters. Right now I�
 
 If you’re into AI, systems, and quiet brilliance — we’re probably on the same vibe. 🧠⚙️
 
+📬 Connect with me:
+- GitHub: [github.com/TianCoreX](https://github.com/TianCoreX)
+- (Soon) Portfolio: TianCoreX.dev
 
 <!---
 TianCoreX/TianCoreX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
